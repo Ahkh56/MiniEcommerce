@@ -60,7 +60,7 @@ MiniEcommerce/
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/MiniEcommerce.git
+git clone https://github.com/Ahkh56/MiniEcommerce.git
 cd MiniEcommerce
 ```
 
