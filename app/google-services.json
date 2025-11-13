@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1018630091039",
+    "project_id": "composeauth-bda59",
+    "storage_bucket": "composeauth-bda59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1018630091039:android:d7e2091d75a8d8f39c402a",
+        "android_client_info": {
+          "package_name": "com.genesis.composeauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD88RwBYnOuUb54XeSYQONKj75ivI5MNm8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
