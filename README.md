@@ -1,6 +1,6 @@
-# 📱 ComposeAuth
+# 📱 MiniEcommerce
 
-ComposeAuth is a modern Android application built with Jetpack Compose, following a clean, multi-module architecture. It demonstrates best practices for building scalable, maintainable, and responsive UI screens for login, registration, and other features.
+MiniEcommerce is a modern Android application built with Jetpack Compose, following a clean, multi-module architecture. It demonstrates best practices for building scalable, maintainable, and responsive UI screens for login, registration, and other features.
 
 # 🚀 Features
 
@@ -28,7 +28,7 @@ ComposeAuth is a modern Android application built with Jetpack Compose, followin
 # 🏗️ Project Structure
 
 ```
-ComposeAuth/
+MiniEcommerce/
 │
 ├── app/                 # Main application module (DI, entry point)
 ├── core/                # Shared utilities, navigation, and base UI components
@@ -60,8 +60,8 @@ ComposeAuth/
 1️⃣ **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/ComposeAuth.git
-cd ComposeAuth
+git clone https://github.com/yourusername/MiniEcommerce.git
+cd MiniEcommerce
 ```
 
 2️⃣ **Open in Android Studio**
